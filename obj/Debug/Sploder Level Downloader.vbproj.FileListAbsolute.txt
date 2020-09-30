@@ -1,0 +1,11 @@
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\bin\Debug\Sploder Level Downloader.exe.config
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\bin\Debug\Sploder Level Downloader.exe
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\bin\Debug\Sploder Level Downloader.pdb
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\bin\Debug\Sploder Level Downloader.xml
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder Level Downloader.vbprojAssemblyReference.cache
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder_Level_Downloader.Form1.resources
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder_Level_Downloader.Resources.resources
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder Level Downloader.vbproj.GenerateResource.cache
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder Level Downloader.exe
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder Level Downloader.xml
+C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder Level Downloader.pdb
