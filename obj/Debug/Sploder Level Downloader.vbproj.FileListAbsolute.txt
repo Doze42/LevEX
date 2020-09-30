@@ -9,3 +9,15 @@ C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\ob
 C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder Level Downloader.exe
 C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder Level Downloader.xml
 C:\Users\alexr\source\repos\Sploder Level Downloader\Sploder Level Downloader\obj\Debug\Sploder Level Downloader.pdb
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\bin\Debug\Sploder Level Downloader.exe.config
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\bin\Debug\Sploder Level Downloader.exe
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\bin\Debug\Sploder Level Downloader.pdb
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\bin\Debug\Sploder Level Downloader.xml
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\obj\Debug\Sploder Level Downloader.vbprojAssemblyReference.cache
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\obj\Debug\Sploder_Level_Downloader.Form1.resources
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\obj\Debug\Sploder_Level_Downloader.Resources.resources
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\obj\Debug\Sploder Level Downloader.vbproj.GenerateResource.cache
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\obj\Debug\Sploder Level Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\obj\Debug\Sploder Level Downloader.exe
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\obj\Debug\Sploder Level Downloader.xml
+C:\Users\Nathaniel Hofer\Downloads\LevEX-master\LevEX-master\obj\Debug\Sploder Level Downloader.pdb
