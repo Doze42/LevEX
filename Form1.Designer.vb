@@ -133,7 +133,7 @@ Partial Class Form1
         '
         'PictureBox1
         '
-        Me.PictureBox1.BackgroundImage = Global.Sploder_Level_Downloader.My.Resources.Resources.splodernotm
+        Me.PictureBox1.BackgroundImage = Global.Sploder_Level_Downloader.My.Resources.Resources.SploderLogo
         Me.PictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
         Me.PictureBox1.Location = New System.Drawing.Point(9, 9)
         Me.PictureBox1.Name = "PictureBox1"

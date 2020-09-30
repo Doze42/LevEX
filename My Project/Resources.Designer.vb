@@ -63,29 +63,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property sloder() As System.Drawing.Bitmap
+        Friend ReadOnly Property SploderLogo() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("sloder", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property sploder() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("sploder", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property splodernotm() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("splodernotm", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("SploderLogo", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
