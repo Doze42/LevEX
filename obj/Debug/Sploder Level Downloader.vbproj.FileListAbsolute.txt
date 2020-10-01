@@ -33,3 +33,14 @@ C:\Users\Nathaniel Hofer\Documents\GitHub\LevEX\bin\Debug\Sploder Level Download
 C:\Users\Nathaniel Hofer\Documents\GitHub\LevEX\bin\Debug\Sploder Level Downloader.xml
 C:\Users\Nathaniel Hofer\Documents\GitHub\LevEX\obj\Debug\Sploder_Level_Downloader.Resources.resources
 C:\Users\Nathaniel Hofer\Documents\GitHub\LevEX\obj\Debug\Sploder Level Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\bin\Debug\Sploder Level Downloader.exe.config
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\bin\Debug\Sploder Level Downloader.exe
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\bin\Debug\Sploder Level Downloader.pdb
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\bin\Debug\Sploder Level Downloader.xml
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\obj\Debug\Sploder Level Downloader.vbprojAssemblyReference.cache
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\obj\Debug\Sploder_Level_Downloader.Form1.resources
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\obj\Debug\Sploder_Level_Downloader.Resources.resources
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\obj\Debug\Sploder Level Downloader.vbproj.GenerateResource.cache
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\obj\Debug\Sploder Level Downloader.exe
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\obj\Debug\Sploder Level Downloader.xml
+C:\Users\alexr\Documents\123computer\PROJECTS\LevEX Downloader\LevEX\obj\Debug\Sploder Level Downloader.pdb
