@@ -38,9 +38,13 @@
         SaveFileDialog.ShowDialog()
         My.Computer.FileSystem.CopyFile(tempXML, SaveFileDialog.FileName)
     End Sub
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Me.Close()
+    Private Sub Button1_Click(sender As Object, e As EventArgs) 
+
+    End Sub
+    Private Sub Form1_FormClosing(ByVal sender As System.Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles MyBase.FormClosing
+
         My.Computer.FileSystem.DeleteFile(tempXML, FileIO.UIOption.OnlyErrorDialogs, FileIO.RecycleOption.DeletePermanently)
+
     End Sub
 
     Private Sub cmdClear_Click(sender As Object, e As EventArgs) Handles cmdClear.Click
