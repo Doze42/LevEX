@@ -19,7 +19,7 @@
             Dim c As String = varArray(2).Substring(2, varArray(2).Length - 2)
             Dim m As String = varArray(3).Substring(2, varArray(3).Length - 2)
             My.Computer.FileSystem.DeleteFile(tempXML, FileIO.UIOption.OnlyErrorDialogs, FileIO.RecycleOption.DeletePermanently)
-            Dim url As String = "http://sploder.s3.amazonaws.com/users/group" & Math.Floor(u / 1000) & "/user" & u & "_" & c & "/projects/proj" & m & "/game.xml"
+            Dim url As String = "https://cdn.sploder.com/users/group" & Math.Floor(u / 1000) & "/user" & u & "_" & c & "/projects/proj" & m & "/game.xml"
             lblStatus.Text = "Downloading XML"
             My.Computer.Network.DownloadFile(url, tempXML)
             txtXML.Text = System.Xml.Linq.XDocument.Parse(My.Computer.FileSystem.ReadAllText(tempXML)).ToString()
